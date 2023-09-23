@@ -1,0 +1,13 @@
+repositories:
+  champ:
+    type: git
+    url: https://github.com/chvmp/champ
+    version: master
+  champ_teleop:
+    type: git
+    url: https://github.com/chvmp/champ_teleop
+    version: master
+  robots:
+    type: git
+    url: https://github.com/chvmp/robots.git
+    version: master
